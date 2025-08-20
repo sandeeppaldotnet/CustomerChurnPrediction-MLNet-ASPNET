@@ -4,7 +4,9 @@ This project predicts whether a customer is likely to churn using machine learni
 
 - A model training console application using **ML.NET**
 - An ASP.NET Core 8 Web API for serving predictions
+# 📊 Customer Churn Prediction with ML.NET and ASP.NET Core 8
 
+![Churn Prediction Screenshot](churnprediction.png)
 ## 🚀 Project Structure
 
 CustomerChurnPrediction-MLNet-ASPNET/
