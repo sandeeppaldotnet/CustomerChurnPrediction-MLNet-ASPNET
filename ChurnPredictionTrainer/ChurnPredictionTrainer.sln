@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChurnPredictionTrainer", "ChurnPredictionTrainer\ChurnPredictionTrainer.csproj", "{46124B34-1CD9-4FDF-B54B-7DEF0626F55D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChurnPredictionAPI", "ChurnPredictionAPI\ChurnPredictionAPI.csproj", "{D1FB6DA1-7967-4711-91C1-596DFC8E4184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46124B34-1CD9-4FDF-B54B-7DEF0626F55D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46124B34-1CD9-4FDF-B54B-7DEF0626F55D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46124B34-1CD9-4FDF-B54B-7DEF0626F55D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46124B34-1CD9-4FDF-B54B-7DEF0626F55D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1FB6DA1-7967-4711-91C1-596DFC8E4184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1FB6DA1-7967-4711-91C1-596DFC8E4184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1FB6DA1-7967-4711-91C1-596DFC8E4184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1FB6DA1-7967-4711-91C1-596DFC8E4184}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F75A3FDC-21EE-4F0E-9FD6-0DC9FC6CB39F}
+	EndGlobalSection
+EndGlobal

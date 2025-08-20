@@ -1,0 +1,16 @@
+﻿CustomerId,Tenure,MonthlyCharges,TotalCharges,IsActive,Churned
+1,12,29.85,345.12,true,false
+2,1,56.95,56.95,false,true
+3,24,70.35,1688.40,true,false
+4,5,99.65,498.25,false,true
+5,36,89.10,3207.60,true,false
+6,2,29.75,59.50,false,true
+7,48,105.50,5064.00,true,false
+8,8,65.20,521.60,false,true
+9,18,75.90,1366.20,true,false
+10,6,85.00,510.00,false,true
+11,60,95.60,5736.00,true,false
+12,3,49.95,149.85,false,true
+13,30,99.99,2999.70,true,false
+14,10,39.95,399.50,false,true
+15,20,65.80,1316.00,true,false

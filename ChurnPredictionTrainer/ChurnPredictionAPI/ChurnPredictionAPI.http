@@ -1,0 +1,6 @@
+@ChurnPredictionAPI_HostAddress = http://localhost:5039
+
+GET {{ChurnPredictionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
